@@ -1,0 +1,1 @@
+import{N as e,l as t,v as n}from"./B1gqqHww.js";import{t as r}from"./D76BnbPU.js";var i=n({__name:`methodology`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`methodology`}))}});export{i as default};
