@@ -1,0 +1,1 @@
+import{P as e,l as t,y as n}from"./D-2rkn4a.js";import{t as r}from"./DMOXeafy.js";var i=n({__name:`broadcast`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`broadcast`}))}});export{i as default};
