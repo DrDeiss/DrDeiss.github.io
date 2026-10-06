@@ -1,0 +1,1 @@
+import{P as e,l as t,y as n}from"./BUUgnvox.js";import{t as r}from"./DcxUB2K8.js";var i=n({__name:`inventory`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`inventory`}))}});export{i as default};

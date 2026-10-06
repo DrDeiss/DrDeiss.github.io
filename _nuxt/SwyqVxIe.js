@@ -1,1 +1,0 @@
-import{P as e,l as t,y as n}from"./D-2rkn4a.js";import{t as r}from"./DMOXeafy.js";var i=n({__name:`digital`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`digital`}))}});export{i as default};

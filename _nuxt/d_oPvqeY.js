@@ -1,1 +1,0 @@
-import{P as e,l as t,y as n}from"./D-2rkn4a.js";import{t as r}from"./DMOXeafy.js";var i=n({__name:`geography`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`geography`}))}});export{i as default};

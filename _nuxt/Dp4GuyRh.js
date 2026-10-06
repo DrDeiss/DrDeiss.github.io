@@ -1,1 +1,0 @@
-import{P as e,l as t,y as n}from"./D-2rkn4a.js";import{t as r}from"./DMOXeafy.js";var i=n({__name:`methodology`,setup(n){return(n,i)=>(e(),t(r,{"section-id":`methodology`}))}});export{i as default};
